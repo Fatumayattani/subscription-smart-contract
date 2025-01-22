@@ -1,7 +1,3 @@
-Sure! Here's a **comprehensive Markdown guide** with detailed explanations for the **Subscription Management Smart Contract**:
-
----
-
 # Subscription Management Smart Contract
 
 ## Overview
