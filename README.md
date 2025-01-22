@@ -105,8 +105,7 @@ This smart contract enables users to subscribe to services or content platforms 
 3. **Notification System**: Implement off-chain notifications to alert users before their subscription is about to expire or when a payment is due.
 
 ---
-
-This **Subscription Management Smart Contract** offers a decentralized, trustless way to handle subscriptions. With event tracking, recurring payments, and owner withdrawals, it provides the necessary functionality for content platforms, streaming services, and other subscription-based services.
+.
 
 ---
 
