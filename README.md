@@ -103,10 +103,3 @@ This smart contract enables users to subscribe to services or content platforms 
 1. **Grace Period**: Add a grace period after the subscription expires, where users can still access the service without renewing immediately.
 2. **Multiple Subscription Tiers**: Implement multiple subscription plans with different fees and benefits.
 3. **Notification System**: Implement off-chain notifications to alert users before their subscription is about to expire or when a payment is due.
-
----
-.
-
----
-
-Let me know if you need any additional features or further clarifications!
